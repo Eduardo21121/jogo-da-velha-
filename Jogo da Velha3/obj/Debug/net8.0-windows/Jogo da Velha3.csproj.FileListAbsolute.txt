@@ -1,0 +1,16 @@
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\bin\Debug\net8.0-windows\Jogo da Velha3.exe
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\bin\Debug\net8.0-windows\Jogo da Velha3.deps.json
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\bin\Debug\net8.0-windows\Jogo da Velha3.runtimeconfig.json
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\bin\Debug\net8.0-windows\Jogo da Velha3.dll
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\bin\Debug\net8.0-windows\Jogo da Velha3.pdb
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo_da_Velha3.Form1.resources
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.csproj.GenerateResource.cache
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.AssemblyInfoInputs.cache
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.AssemblyInfo.cs
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.dll
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\refint\Jogo da Velha3.dll
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.pdb
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\Jogo da Velha3.genruntimeconfig.cache
+C:\Users\Estudo\source\repos\Jogo da Velha3\Jogo da Velha3\obj\Debug\net8.0-windows\ref\Jogo da Velha3.dll
